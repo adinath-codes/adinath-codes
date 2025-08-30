@@ -52,8 +52,6 @@ const myLife = () => {
     evolve();
   }
 ---
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a StartUp + My own projects
 - 🌱 I’m currently learning Aiml
 ---
