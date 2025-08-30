@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  🚀 I'm a Aspiring  <b>Software Developer</b> from India.<br>
-  💻 I love exploring new tech stacks and building full-stack solutions.<br>
-  🎯 Currently working on AI/ML, web development, and systems design.<br>
+  🚀 I'm a Aspiring  <b>Software Developer / Student </b> from India.<br>
+  💻 I love exploring new tech stacks and building solutions.<br>
+  🎯 Currently working on Full Stack and AIML<br>
   ✨ Always learning, always curious.
 </p>
 
@@ -26,17 +26,11 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,sequelize,html,css,tailwind,bootstrap,java,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,html,css,tailwind,bootstrap,python,git,github,vscode,figma" />
+  <p>and more...</p>
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitsharma&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ankitsharma&theme=radical" />
-</p>
 
 ### 🌐 Let's Connect
 
@@ -57,17 +51,9 @@ const myLife = () => {
     learn();
     evolve();
   }
-<!--
-**adinath-codes/adinath-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+---
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a StartUp + My own projects
+- 🌱 I’m currently learning Aiml
+---
