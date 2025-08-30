@@ -6,7 +6,7 @@
 
 <!-- Profile Header Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Adinath+%F0%9F%91%8B;Software+Developer+%7C+Full+Stack+AiML+Enthu;Student+IIT+Madras+SVCE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Adinath+%F0%9F%91%8B;Full+Stack+%7C+Developer+AiML+Enthu;Student+IIT+Madras+SVCE" alt="Typing SVG" />
 </h1>
 
 <!-- About Me Section -->
