@@ -1,8 +1,8 @@
 ## Hi there 👋
 <!-- Matrix Rain Background Animation -->
-<p align="center" style="width: 300px; height: 100px; overflow: hidden;">
+<div align="center" style="width: 100px; height: 100px; overflow: hidden;">
   <img src="https://i.gifer.com/Nv2.gif" style="width: 100%; height: 100%; object-fit: cover;" alt="Matrix Code Rain" />
-</p>
+</div>
 
 <!-- Profile Header Animation -->
 <h1 align="center">
