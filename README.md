@@ -16,8 +16,8 @@
 
 <p align="center">
   🚀 I'm a Aspiring  <b>Software Developer / Student </b> from India.<br>
-  🎯 I’m currently working on a StartUp (Founding Team Member) + My own projects <br>
-  🌱 I’m currently learning Aiml + Cloud
+  🎯 I’m currently working on a StartUp (<b>Founding Team Member</b>) + My own projects <br>
+  🌱 I’m currently <b>learning Aiml + Cloud</b>
   💻 I love exploring new tech stacks and building solutions.<br>
   ✨ Always learning, always curious.<br>
 </p>
