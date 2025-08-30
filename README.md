@@ -16,11 +16,10 @@
 
 <p align="center">
   🚀 I'm a Aspiring  <b>Software Developer / Student </b> from India.<br>
-  💻 I love exploring new tech stacks and building solutions.<br>
-  🎯 Currently working on Full Stack and AIML<br>
-  ✨ Always learning, always curious.<br>
-  🔭 I’m currently working on a StartUp (Founding Team Member) + My own projects <br>
+  🎯 I’m currently working on a StartUp (Founding Team Member) + My own projects <br>
   🌱 I’m currently learning Aiml + Cloud
+  💻 I love exploring new tech stacks and building solutions.<br>
+  ✨ Always learning, always curious.<br>
 </p>
 
 ---
