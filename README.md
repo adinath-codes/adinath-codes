@@ -41,9 +41,9 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit-sharma-9b7b3a251/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
-  <a href="mailto:ankit.225.sharma2003@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge&logoColor=white"/></a>
-  <a href="https://demon07101845.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/radinath/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"/></a>
+  <a href="mailto:adinath.codes.alot@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge&logoColor=white"/></a>
+<!--   <a href="https://demon07101845.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github"/></a> -->
 </p>
 
 ---
@@ -55,7 +55,7 @@ const myLife = () => {
   while(alive) {
     code();
     learn();
-    explore();
+    evolve();
   }
 <!--
 **adinath-codes/adinath-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
