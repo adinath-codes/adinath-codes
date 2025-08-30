@@ -19,6 +19,8 @@
   💻 I love exploring new tech stacks and building solutions.<br>
   🎯 Currently working on Full Stack and AIML<br>
   ✨ Always learning, always curious.
+  🔭 I’m currently working on a StartUp (Founding Team Member) + My own projects
+  🌱 I’m currently learning Aiml
 </p>
 
 ---
@@ -51,7 +53,4 @@ const myLife = () => {
     learn();
     evolve();
   }
----
-- 🔭 I’m currently working on a StartUp + My own projects
-- 🌱 I’m currently learning Aiml
----
+
